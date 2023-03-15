@@ -31,4 +31,4 @@ Those scripts work together, and they do very well. For example, when you load a
 For now there's nothing provided for DLCs, because the game is still in heavy developpement (see "How to play?") but I surely will make a guide or so about it, maybe in another repository. IDK TO BE HONEST.
 
 ## Useful Links
-[firefood's GitHub Page]("https://github.com/caca63/2D-terminal-game")
+[firefood's GitHub Page]("https://github.com/caca63/")
